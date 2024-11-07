@@ -1,0 +1,16 @@
+import math
+a = 10
+b = 20.45656
+soma = a + b
+multi = a * b
+divisao = a / b
+subtracao = a - b
+potencia = pow(a,b)
+# Também podemos utilizar: potencia = a ** b
+raiz = math.sqrt(a)
+print(soma)
+print(multi)
+print(divisao)
+print(subtracao)
+print(raiz)
+print(potencia)
